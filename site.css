@@ -1,0 +1,88 @@
+.built{
+	background-color:#F7F7F7 ; 
+	height:250px;
+	width: 100%;
+	margin-bottom: 70px;
+	padding-top: 2rem;
+
+}
+.bun{
+    color: #ffffff;
+    position: absolute;
+width: 150px;
+height: 40px;
+left: 95px;
+top: 582px;
+background-color: #000000;
+
+    
+}
+.searchbar{
+    margin-top: 20%;
+    padding-left:20%;
+    padding-bottom: 5%;
+}
+.builts{
+    background-color:#d14a4a ; 
+}
+.category{
+
+    color: #000000;
+}
+.popular-category{
+	background-color:#F7F7F7 ; 
+	height:250px;
+	width: 100%;
+	margin-bottom: 70px;
+	padding-top: 2rem;
+
+}
+.card.card-category {
+	background-color: #000000;
+	width: 20rem; 
+	height: 20rem;
+	margin-top: 1rem;
+
+}
+.card.card-category img {
+    height: 75%;
+
+}
+.popular-vendors{
+    margin-top: 5em;
+    margin-bottom: 1em;
+}
+
+.single-card {
+	margin-bottom: 50px;
+}
+.footer{
+    background: #000000;
+}
+.front h5{
+    color: #a8a4a4;
+
+}
+.front li{
+    color: #ffffff;
+
+}
+.front{
+    margin-left: 20rem;
+}
+.fronty{
+    margin-left: 20rem;
+}
+.ul {
+
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333333;
+  }
+  
+.li {
+    float: left;
+  }
+  
